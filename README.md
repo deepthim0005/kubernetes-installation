@@ -8,7 +8,7 @@
 ### COMMANDS:
 ```
 git clone https://github.com/deepthim0005/kubernetes-installation.git
-cd k8sinstall
+cd kubernetes-installation
 sudo sh installk8s-1.23.8.sh
 ```
 
